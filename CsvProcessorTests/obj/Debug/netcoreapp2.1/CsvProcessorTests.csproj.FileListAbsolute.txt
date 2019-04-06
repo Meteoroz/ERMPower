@@ -1,0 +1,14 @@
+/Users/meteorosz/Projects/ERM_Power/CsvProcessorTests/bin/Debug/netcoreapp2.1/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/meteorosz/Projects/ERM_Power/CsvProcessorTests/bin/Debug/netcoreapp2.1/xunit.runner.reporters.netcoreapp10.dll
+/Users/meteorosz/Projects/ERM_Power/CsvProcessorTests/bin/Debug/netcoreapp2.1/xunit.runner.utility.netcoreapp10.dll
+/Users/meteorosz/Projects/ERM_Power/CsvProcessorTests/bin/Debug/netcoreapp2.1/CsvProcessorTests.deps.json
+/Users/meteorosz/Projects/ERM_Power/CsvProcessorTests/bin/Debug/netcoreapp2.1/CsvProcessorTests.runtimeconfig.json
+/Users/meteorosz/Projects/ERM_Power/CsvProcessorTests/bin/Debug/netcoreapp2.1/CsvProcessorTests.runtimeconfig.dev.json
+/Users/meteorosz/Projects/ERM_Power/CsvProcessorTests/bin/Debug/netcoreapp2.1/CsvProcessorTests.dll
+/Users/meteorosz/Projects/ERM_Power/CsvProcessorTests/bin/Debug/netcoreapp2.1/CsvProcessorTests.pdb
+/Users/meteorosz/Projects/ERM_Power/CsvProcessorTests/obj/Debug/netcoreapp2.1/CsvProcessorTests.csprojAssemblyReference.cache
+/Users/meteorosz/Projects/ERM_Power/CsvProcessorTests/obj/Debug/netcoreapp2.1/CsvProcessorTests.csproj.CoreCompileInputs.cache
+/Users/meteorosz/Projects/ERM_Power/CsvProcessorTests/obj/Debug/netcoreapp2.1/CsvProcessorTests.AssemblyInfoInputs.cache
+/Users/meteorosz/Projects/ERM_Power/CsvProcessorTests/obj/Debug/netcoreapp2.1/CsvProcessorTests.AssemblyInfo.cs
+/Users/meteorosz/Projects/ERM_Power/CsvProcessorTests/obj/Debug/netcoreapp2.1/CsvProcessorTests.dll
+/Users/meteorosz/Projects/ERM_Power/CsvProcessorTests/obj/Debug/netcoreapp2.1/CsvProcessorTests.pdb

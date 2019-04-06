@@ -1,0 +1,14 @@
+/Users/meteorosz/Projects/ERM_Power/CSVReader/bin/Debug/netcoreapp2.1/CSVUtilities.deps.json
+/Users/meteorosz/Projects/ERM_Power/CSVReader/bin/Debug/netcoreapp2.1/CSVUtilities.dll
+/Users/meteorosz/Projects/ERM_Power/CSVReader/bin/Debug/netcoreapp2.1/CSVUtilities.pdb
+/Users/meteorosz/Projects/ERM_Power/CSVReader/obj/Debug/netcoreapp2.1/CSVUtilities.csproj.CoreCompileInputs.cache
+/Users/meteorosz/Projects/ERM_Power/CSVReader/obj/Debug/netcoreapp2.1/CSVUtilities.AssemblyInfoInputs.cache
+/Users/meteorosz/Projects/ERM_Power/CSVReader/obj/Debug/netcoreapp2.1/CSVUtilities.AssemblyInfo.cs
+/Users/meteorosz/Projects/ERM_Power/CSVReader/obj/Debug/netcoreapp2.1/CSVUtilities.dll
+/Users/meteorosz/Projects/ERM_Power/CSVReader/obj/Debug/netcoreapp2.1/CSVUtilities.pdb
+/Users/meteorosz/Projects/ERM_Power/CSVReader/bin/Debug/netcoreapp2.1/ERM_Models.dll
+/Users/meteorosz/Projects/ERM_Power/CSVReader/bin/Debug/netcoreapp2.1/Extensions.dll
+/Users/meteorosz/Projects/ERM_Power/CSVReader/bin/Debug/netcoreapp2.1/ERM_Models.pdb
+/Users/meteorosz/Projects/ERM_Power/CSVReader/bin/Debug/netcoreapp2.1/Extensions.pdb
+/Users/meteorosz/Projects/ERM_Power/CSVReader/obj/Debug/netcoreapp2.1/CSVUtilities.csprojAssemblyReference.cache
+/Users/meteorosz/Projects/ERM_Power/CSVReader/obj/Debug/netcoreapp2.1/CSVUtilities.csproj.CopyComplete

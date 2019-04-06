@@ -1,0 +1,9 @@
+/Users/meteorosz/Projects/ERM_Power/Models/bin/Debug/netcoreapp2.1/ERM_Models.deps.json
+/Users/meteorosz/Projects/ERM_Power/Models/bin/Debug/netcoreapp2.1/ERM_Models.dll
+/Users/meteorosz/Projects/ERM_Power/Models/bin/Debug/netcoreapp2.1/ERM_Models.pdb
+/Users/meteorosz/Projects/ERM_Power/Models/obj/Debug/netcoreapp2.1/ERM_Models.csprojAssemblyReference.cache
+/Users/meteorosz/Projects/ERM_Power/Models/obj/Debug/netcoreapp2.1/ERM_Models.csproj.CoreCompileInputs.cache
+/Users/meteorosz/Projects/ERM_Power/Models/obj/Debug/netcoreapp2.1/ERM_Models.AssemblyInfoInputs.cache
+/Users/meteorosz/Projects/ERM_Power/Models/obj/Debug/netcoreapp2.1/ERM_Models.AssemblyInfo.cs
+/Users/meteorosz/Projects/ERM_Power/Models/obj/Debug/netcoreapp2.1/ERM_Models.dll
+/Users/meteorosz/Projects/ERM_Power/Models/obj/Debug/netcoreapp2.1/ERM_Models.pdb

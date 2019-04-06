@@ -1,0 +1,12 @@
+/Users/meteorosz/Projects/ERM_Power/FileEnumerator/bin/Debug/netcoreapp2.1/FileUtilities.deps.json
+/Users/meteorosz/Projects/ERM_Power/FileEnumerator/bin/Debug/netcoreapp2.1/FileUtilities.dll
+/Users/meteorosz/Projects/ERM_Power/FileEnumerator/bin/Debug/netcoreapp2.1/FileUtilities.pdb
+/Users/meteorosz/Projects/ERM_Power/FileEnumerator/obj/Debug/netcoreapp2.1/FileUtilities.csproj.CoreCompileInputs.cache
+/Users/meteorosz/Projects/ERM_Power/FileEnumerator/obj/Debug/netcoreapp2.1/FileUtilities.AssemblyInfoInputs.cache
+/Users/meteorosz/Projects/ERM_Power/FileEnumerator/obj/Debug/netcoreapp2.1/FileUtilities.AssemblyInfo.cs
+/Users/meteorosz/Projects/ERM_Power/FileEnumerator/obj/Debug/netcoreapp2.1/FileUtilities.dll
+/Users/meteorosz/Projects/ERM_Power/FileEnumerator/obj/Debug/netcoreapp2.1/FileUtilities.pdb
+/Users/meteorosz/Projects/ERM_Power/FileEnumerator/bin/Debug/netcoreapp2.1/ERM_Models.dll
+/Users/meteorosz/Projects/ERM_Power/FileEnumerator/bin/Debug/netcoreapp2.1/ERM_Models.pdb
+/Users/meteorosz/Projects/ERM_Power/FileEnumerator/obj/Debug/netcoreapp2.1/FileUtilities.csprojAssemblyReference.cache
+/Users/meteorosz/Projects/ERM_Power/FileEnumerator/obj/Debug/netcoreapp2.1/FileUtilities.csproj.CopyComplete

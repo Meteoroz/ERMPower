@@ -1,0 +1,9 @@
+/Users/meteorosz/Projects/ERM_Power/Extensions/bin/Debug/netcoreapp2.1/Extensions.deps.json
+/Users/meteorosz/Projects/ERM_Power/Extensions/bin/Debug/netcoreapp2.1/Extensions.dll
+/Users/meteorosz/Projects/ERM_Power/Extensions/bin/Debug/netcoreapp2.1/Extensions.pdb
+/Users/meteorosz/Projects/ERM_Power/Extensions/obj/Debug/netcoreapp2.1/Extensions.csprojAssemblyReference.cache
+/Users/meteorosz/Projects/ERM_Power/Extensions/obj/Debug/netcoreapp2.1/Extensions.csproj.CoreCompileInputs.cache
+/Users/meteorosz/Projects/ERM_Power/Extensions/obj/Debug/netcoreapp2.1/Extensions.AssemblyInfoInputs.cache
+/Users/meteorosz/Projects/ERM_Power/Extensions/obj/Debug/netcoreapp2.1/Extensions.AssemblyInfo.cs
+/Users/meteorosz/Projects/ERM_Power/Extensions/obj/Debug/netcoreapp2.1/Extensions.dll
+/Users/meteorosz/Projects/ERM_Power/Extensions/obj/Debug/netcoreapp2.1/Extensions.pdb
